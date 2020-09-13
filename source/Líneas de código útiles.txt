@@ -1,0 +1,3 @@
+
+PYSIDE2
+pyside2-uic vent.ui -o ppal.py
